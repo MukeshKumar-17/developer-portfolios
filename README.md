@@ -989,6 +989,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Uzair Khan](https://uzairkhan.tech)
 - [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
 - [Mukesh](https://themukesh.com) [Java,React, next js, Full Stack Developer]
+- [MUKESH KUMAR](mukeshkumark.vercel.app) [MacOS Portfolio,Frutiger Aero | Full Stack Developer | AI&ML Engineer]
 - [Mukul Chugh](https://mukulchugh.com)
 - [Mushfiqur Rahman](https://mushfiq.xyz)
 - [Mustafa Yalçın](https://mylcin.vercel.app) [Front-End Developer]
